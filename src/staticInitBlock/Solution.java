@@ -1,10 +1,6 @@
 package staticInitBlock;
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Solution {
     static Scanner in = new Scanner(System.in);
